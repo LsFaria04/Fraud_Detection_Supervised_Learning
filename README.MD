@@ -1,7 +1,3 @@
 git lfs install
 
-o merged_dataset já vinha no kaggle, mas acho que não o devíamos utiliar porque parece-me que esse já tem a primeira parte do projeto feita, a exploratory data analysis
-
-4M 420k
-150k
-300k
+o merged_dataset já vinha no kaggle, mas acho que não devíamos utilizá-lo para o training e testing porque parece-me já ter parte da exploratory data analysis feita, então estive a fazer merge dos outros 2 datasets
