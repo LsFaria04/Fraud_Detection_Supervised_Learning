@@ -4,4 +4,4 @@ pip install numpy scipy
 pip install scikit-learn
 pip install matplotlib seaborn
 pip install catboost
-pip install imblearn
+pip install xgboost
