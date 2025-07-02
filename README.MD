@@ -4,7 +4,7 @@
 
 This project was developed as part of the Artificial Intelligence course at LEIC, focusing on supervised learning models in AI. It features a Jupyter Notebook containing a complete data pipeline—from data analysis and cleaning to model training and optimization.
 
-*Project Grade:* 18.5
+**Project Grade:** 18.5
 
 ## Installation
 ```
